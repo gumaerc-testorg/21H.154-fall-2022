@@ -17,19 +17,13 @@ Note: This subject meets with 21G.554. For those students, the prerequisite is [
 
 ## Course Description
 
-This class explores the history, and the mythology, of the famous Japanese warriors, from their origins in classical Japan to their various reincarnations throughout the archipelago's history. We will start in Japan's pre-modern era (200–1600 CE) and follow key historical developments such as the rise of samurai as a recognizable social group, the transformation of Japan into a warrior-governed state, and the ways in which these events reshaped the politics, society, economy, and culture of the entire country. The class will also consider how the samurai identity continued to be reinvented throughout Japan's history and why, even today, they capture the imaginations of many people not only in Japan but around the world.
+This class explores the history, and the mythology, of the famous Japanese warriors, from their origins in classical Japan to their various reincarnations throughout the archipelago's history. We will start in Japan's pre-modern era (200–1600 CE) and follow key historical developments such as the rise of the samurai as a recognizable social group, the transformation of Japan into a warrior-governed state, and the ways in which these events reshaped the politics, society, economy, and culture of the entire country. The class will also consider how the samurai identity continued to be reinvented throughout Japan's history and why, even today, they capture the imaginations of many people not only in Japan but around the world.
 
 ## Class Goals
 
 1. Gain a deep and nuanced understanding of the significance of “samurai” both as a historical phenomenon and a product of global imagination.
 2. Develop the ability to demonstrate such understanding through clear, accurate, and persuasive writing.
 3. Share our learning and discoveries as a class through discussions and presentations.
-
-## Required Text
-
-Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
-
-All other required readings can be found in the {{% resource_link "7f543041-3658-4cb1-96fe-904d6956eb24" "Readings" %}} section.
 
 ## Grading Policy
 
@@ -75,6 +69,6 @@ For detail on the essays, see the {{% resource_link "f8ba7b70-6ae4-446b-8fa7-e40
 
 In Japanese, the surname precedes the given name. My name, for example, would be rendered as “Nagahara Hiromu.” Please note that many of the assigned readings follow this convention for Japanese names.
 
-Vowels in Japanese are pronounced approximately as in Italian (they are pure vowels). Hence: a as in father; i as in magazine; u as in flute; e as in et cetera;  o as in note.
+Vowels in Japanese are pronounced approximately as in Italian (they are pure vowels). Hence: a as in father; i as in magazine; u as in flute; e as in et cetera; o as in note.
 
-Vowels with macrons (ā, ī, ū, ē, ō) are held longer than those without, but their sound values remain unchanged. For example: kōshō means “negotiations,” while koshō means “pepper.”
+Vowels with macrons (*ā, ī, ū, ē, ō*) are held longer than those without, but their sound values remain unchanged. For example: *kōshō* means “negotiations,” while *koshō* means “pepper.”

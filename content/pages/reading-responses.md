@@ -10,7 +10,7 @@ uid: 2062b99d-ebc1-4e84-adde-bc0413a60006
 
 Murasaki Shikibu and Sei Shōnagon were contemporaries to each other. In fact, they served two rivaling consorts of Emperor Ichijō. In her diary, Lady Murasaki had this to say about her palace colleague and fellow writer:
 
-"Lady Sei Shonagon. A very proud person. She values herself highly, and scatters her Chinese writings all about. Yet should we study her closely, we should find that she is still imperfect. She tries to be exceptional, but naturally persons of that sort give offence. She is piling up trouble for her future. One who is too richly gifted, who indulges too much in emotion, even when she ought to be reserved, and cannot turn aside from anything she is interested in, in spite of herself will lose self-control. How can such a vain and reckless person end her days happily!"
+> "Lady Sei Shōnagon. A very proud person. She values herself highly, and scatters her Chinese writings all about. Yet should we study her closely, we should find that she is still imperfect. She tries to be exceptional, but naturally persons of that sort give offence. She is piling up trouble for her future. One who is too richly gifted, who indulges too much in emotion, even when she ought to be reserved, and cannot turn aside from anything she is interested in, in spite of herself will lose self-control. How can such a vain and reckless person end her days happily!"
 
 For this response post, write one 200–300-word paragraph that identifies a major theme in the writings of Murasaki Shikibu and Sei Shōnagon that strikes you as especially important or puzzling. As you do so, mention at least one specific passage of either of their writings (including the page #).
 
@@ -47,7 +47,7 @@ To start annotating, visit [Kami](https://www.kamiapp.com/).
 
 ## Historical Perspectives on the Akō Incident
 
-Session 13's reading from the *Samurai Encyclopedia* offers various competing, historical perspectives that emerged in response to the actions of those who were involved in the Akō Incident. While you are expected to read all of these perspectives, each student has been assigned one particular perspective to highlight in this discussion thread. Carefully read your assigned perspective and post a short paragraph that summarizes its main arguments in your own words. We will use this as a basis for a 'role-play' discussion during session 14.
+Session 13's reading from the *Samurai Encyclopedia* offers various competing, historical perspectives that emerged in response to the actions of those who were involved in the Akō Incident. While you are expected to read all of these perspectives, each student has been assigned one particular perspective to highlight in this discussion thread. Carefully read your assigned perspective and post a short paragraph that summarizes its main arguments in your own words. We will use this as a basis for a "role-play" discussion during session 14.
 
 This response is due during session 13.
 

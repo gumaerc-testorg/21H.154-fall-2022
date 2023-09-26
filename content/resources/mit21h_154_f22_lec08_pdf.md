@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Inventing the Samurai, Lecture 8: Ashikaga Shogunate and the Era of Rival
+title: 'Inventing the Samurai, Lecture 8: The Ashikaga Shogunate and the Era of Rival
   Imperial Courts'
 uid: 10a36a4f-d0af-4feb-8bfc-53829207aabd
 video_files:
