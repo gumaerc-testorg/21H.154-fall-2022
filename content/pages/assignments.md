@@ -15,7 +15,7 @@ For further detail, see {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006"
 
 ## Essays
 
-The essay assignments ask the student to synthesize the topics and materials covered in lectures, in-class discussions, and assigned readings. The primary subject matter of the three essays roughly correspond to the three major “parts” of this class as listed in the class calendar (“Part I: Before Samurai,” “Part II: Historical Samurai in Three Eras (1185–1700),” and “Part III: Alternative Visions of Samurai and their World (1700–Present)”). The third and final essay, however, will a) ask the students to consider the entire breadth of the ideas covered during the semester, and b) ask the students to conduct a mini-research that brings in additional materials beyond what is assigned in class. Further instructions for each essay will be provided during the semester. 
+The essay assignments ask the student to synthesize the topics and materials covered in lectures, in-class discussions, and assigned readings. The primary subject matter of the three essays roughly corresponds to the three major “parts” of this class as listed in the class calendar (“Part I: Before Samurai,” “Part II: Historical Samurai in Three Eras (1185–1700),” and “Part III: Alternative Visions of Samurai and their World (1700–Present)”). The third and final essay, however, will a) ask the students to consider the entire breadth of the ideas covered during the semester, and b) ask the students to conduct a mini-research that brings in additional materials beyond what is assigned in class. Further instructions for each essay will be provided during the semester. 
 
 For further detail, see:
 

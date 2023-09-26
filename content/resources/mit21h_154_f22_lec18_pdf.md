@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Inventing the Samurai, Lecture 18: \u201CDream-besotted\u201D Musui"
+title: "Inventing the Samurai, Lecture 18: \u201CDream-Besotted\u201D Musui"
 uid: e891fc82-60ba-4c95-81e1-06e393eda78e
 video_files:
   archive_url: ''
