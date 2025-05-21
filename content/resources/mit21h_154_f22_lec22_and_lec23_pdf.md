@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21h-154-inventing-the-samurai-fall-2022/mit21h_154_f22_lec22_and_lec23.pdf
+file: courses/inventing-the-samurai/mit21h_154_f22_lec22_and_lec23.pdf
 file_size: 589083
 file_type: application/pdf
 image_metadata:
