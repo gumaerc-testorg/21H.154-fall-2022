@@ -23,9 +23,9 @@ This essay is designed to be completed with in-class materials. Do not cite out
 
 **Historical Sources Options 1: History and Mythology**
 
-Ch. 1, “The Earliest Records of Japan,” pp. 3–16; Ch. 2, “Early Shinto,” pp. 17–31, in William Theodore de Bary, ed., *Sources of Japanese Tradition, Volume 1: From Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). ISBN: 9780231518055. \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
+Ch. 1, “The Earliest Records of Japan,” pp. 3–16; Ch. 2, “Early Shinto,” pp. 17–31, in William Theodore de Bary, ed., *Sources of Japanese Tradition, Volume 1: From Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). ISBN: 9780231518055. \[Preview with {{% resource_link "f9f55eae-f2e2-4e8c-ae28-3d765e529de3" "Google Books" %}}\]
 
-“Section I. The Story of Swords: Understanding the Warriors of Ancient Japan (471–900),” pp. 1–7, in Thomas Conlan, ed., *Samurai and the Warrior Culture of Japan, 471–1877* (Hackett Publishing Co., 2022). ISBN: 9781647920579. \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_and_the_Warrior_Culture_of_Japan/gN1dEAAAQBAJ?hl=en&gbpv=1)\]
+“Section I. The Story of Swords: Understanding the Warriors of Ancient Japan (471–900),” pp. 1–7, in Thomas Conlan, ed., *Samurai and the Warrior Culture of Japan, 471–1877* (Hackett Publishing Co., 2022). ISBN: 9781647920579. \[Preview with {{% resource_link "5932c915-2b8c-48c8-9c72-697d87897cd4" "Google Books" %}}\]
 
 **Historical Sources Option 2: Overseas Influence and the Imperial State**
 
@@ -33,11 +33,11 @@ Ch. 3, “Prince Shōtoku and His Constitution,” pp. 40–55; “Chinese-style
 
 **Historical Sources Option 3: Heian, the Era of “Peace and Tranquility”(?)**
 
-Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A Documentary History* (M.E. Sharpe, 2005). ISBN: 9781563249075. \[Preview with [Google Books](https://www.google.com/books/edition/Japan/maXRLaADxLsC?hl=en&gbpv=1)\]
+Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A Documentary History* (M.E. Sharpe, 2005). ISBN: 9781563249075. \[Preview with {{% resource_link "8149554b-91fa-4c90-a89a-92abc5e50d01" "Google Books" %}}\]
 
 **Historical Sources Option 4: Court Culture and Spirituality**
 
-“Yūgao” and “The Pillow Book of Sei Shōnagon,” pp. 106–144, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). ISBN: 9780802198655. \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
+“Yūgao” and “The Pillow Book of Sei Shōnagon,” pp. 106–144, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). ISBN: 9780802198655. \[Preview with {{% resource_link "5550c5ac-25ff-449a-9bb3-fdae72ddaa9e" "Google Books" %}}\]
 
 **Historical Sources Option 5:  The First Samurai Wars**
 
@@ -58,7 +58,7 @@ Your essay should be formatted in the following manner:
 
 ### Citations
 
-Cite sources in footnotes in accordance with the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). Your citation should identify the title of the specific document you’re citing, its author (if available), the citation information for the book your document comes from, and, most importantly, the page number of the passage you’re citing.
+Cite sources in footnotes in accordance with the {{% resource_link "a532c67d-9116-4701-a2b5-61b9e7c27b50" "Chicago Manual of Style" %}}. Your citation should identify the title of the specific document you’re citing, its author (if available), the citation information for the book your document comes from, and, most importantly, the page number of the passage you’re citing.
 
 ### Additional Essay Tips
 
