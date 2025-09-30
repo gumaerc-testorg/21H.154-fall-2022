@@ -5,11 +5,11 @@ draft: false
 title: Readings
 uid: 7f543041-3658-4cb1-96fe-904d6956eb24
 ---
-\[SJT\] = William Theodore de Bary, ed., *Sources of Japanese Tradition, Volume 1: From Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). ISBN: 9780231518055. \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
+\[SJT\] = William Theodore de Bary, ed., *Sources of Japanese Tradition, Volume 1: From Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). ISBN: 9780231518055. \[Preview with {{% resource_link "f9f55eae-f2e2-4e8c-ae28-3d765e529de3" "Google Books" %}}\]
 
-\[SWCJ\] = Thomas Conlan, ed., *Samurai and the Warrior Culture of Japan, 471–1877* (Hackett Publishing Co., 2022). ISBN: 9781647920579. \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_and_the_Warrior_Culture_of_Japan/gN1dEAAAQBAJ?hl=en&gbpv=1)\]
+\[SWCJ\] = Thomas Conlan, ed., *Samurai and the Warrior Culture of Japan, 471–1877* (Hackett Publishing Co., 2022). ISBN: 9781647920579. \[Preview with {{% resource_link "5932c915-2b8c-48c8-9c72-697d87897cd4" "Google Books" %}}\]
 
-\[JE\] = Karl F. Friday, ed., *Japan Emerging: Premodern History to 1850* (Westview Press, 2012). ISBN: 9780429979163. \[Preview with [Google Books](https://www.google.com/books/edition/Japan_Emerging/iUtWDwAAQBAJ?hl=en&gbpv=1)\]
+\[JE\] = Karl F. Friday, ed., *Japan Emerging: Premodern History to 1850* (Westview Press, 2012). ISBN: 9780429979163. \[Preview with {{% resource_link "a16a36f6-9220-43da-96ac-1ced226759e0" "Google Books" %}}\]
 
 ### Week 1: Introduction
 
@@ -23,9 +23,9 @@ No readings assigned.
 
 #### Session 2: History and Mythology
 
-\[SJT\] Ch. 1, “The Earliest Records of Japan,” pp. 3–16; Ch. 2, “Early Shinto,” pp. 17–31. \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
+\[SJT\] Ch. 1, “The Earliest Records of Japan,” pp. 3–16; Ch. 2, “Early Shinto,” pp. 17–31. \[Preview with {{% resource_link "f9f55eae-f2e2-4e8c-ae28-3d765e529de3" "Google Books" %}}\]
 
-\[SWCJ\] “Section I. The Story of Swords: Understanding the Warriors of Ancient Japan (471-900),” pp. 1–7. \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_and_the_Warrior_Culture_of_Japan/gN1dEAAAQBAJ?hl=en&gbpv=1)\]
+\[SWCJ\] “Section I. The Story of Swords: Understanding the Warriors of Ancient Japan (471-900),” pp. 1–7. \[Preview with {{% resource_link "5932c915-2b8c-48c8-9c72-697d87897cd4" "Google Books" %}}\]
 
 \[JE\] Ch. 6, “Origins of the Japanese People,” pp. 55–65; Ch. 7, “What Used to be Called Shinto,” pp. 66–76. 
 
@@ -43,7 +43,7 @@ No readings assigned.
 
 #### Session 4: Heian, the Era of “Peace and Tranquility”(?)
 
-Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A Documentary History* (M.E. Sharpe, 2005). ISBN: 9781563249075. \[Preview with [Google Books](https://www.google.com/books/edition/Japan/maXRLaADxLsC?hl=en&gbpv=1)\]
+Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A Documentary History* (M.E. Sharpe, 2005). ISBN: 9781563249075. \[Preview with {{% resource_link "8149554b-91fa-4c90-a89a-92abc5e50d01" "Google Books" %}}\]
 
 \[JE\] Ch. 12, “Oligarchy, Shared Rulership, and Power Blocks,” pp. 122–134; Ch. 16, “The Shōen System,” pp. 167–177.
 
@@ -53,23 +53,23 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 #### Session 5: Court Culture and Spirituality 
 
-“Yūgao” and “The Pillow Book of Sei Shōnagon,” pp. 106–144, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). ISBN: 9780802198655. \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
+“Yūgao” and “The Pillow Book of Sei Shōnagon,” pp. 106–144, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). ISBN: 9780802198655. \[Preview with {{% resource_link "5550c5ac-25ff-449a-9bb3-fdae72ddaa9e" "Google Books" %}}\]
 
 \[JE\] Ch. 13, “Aristocratic Buddhism,” pp. 135–145; Ch. 14, “The Canons of Courtly Taste,” pp.146–156.
 
 *Optional (other writings by Heian court ladies):*
 
-“The Diary of Murasaki Shikibu,” pp. 145–155; “The Sarashina Diary,” pp. 156–161, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). ISBN: 9780802198655. \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
+“The Diary of Murasaki Shikibu,” pp. 145–155; “The Sarashina Diary,” pp. 156–161, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). ISBN: 9780802198655. \[Preview with {{% resource_link "5550c5ac-25ff-449a-9bb3-fdae72ddaa9e" "Google Books" %}}\]
 
 *Optional video:*
 
-“[Tale of Genji Scroll - Facsimile Editions and Medieval Illuminated Manuscripts](https://www.youtube.com/watch?v=nVJ2vDtYfyY).” YouTube.
+“{{% resource_link "8916888b-9a23-4a05-bf88-f286dd3331b4" "Tale of Genji Scroll - Facsimile Editions and Medieval Illuminated Manuscripts" %}}.” YouTube.
 
 *Optional video (a video tour of a Tale of Genji exhibit at the NYC Metropolitan Museum of Art):*
 
-“[The Tale of Genji, Part One | Ancient Art Links](https://www.youtube.com/watch?v=5_d2ax-DxPg).” YouTube.
+“{{% resource_link "f5644069-a4e5-43b4-ad83-e235162ae138" "The Tale of Genji, Part One | Ancient Art Links" %}}.” YouTube.
 
-“[The Tale of Genji, Part Two | Ancient Art Links](https://www.youtube.com/watch?v=CXW4hHv8ozE).” YouTube.
+“{{% resource_link "2ffd6283-cbaa-4181-a310-a2b74d1d6084" "The Tale of Genji, Part Two | Ancient Art Links" %}}.” YouTube.
 
 ## Part II: Historical Samurai in Three Eras (1185–1700)
 
@@ -85,11 +85,11 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 *Optional video:*
 
-“[Heiji Monogatari E - Facsimile Editions and Medieval Illuminated Manuscripts](https://www.youtube.com/watch?v=fg3-jjYnYrE).” YouTube.
+“{{% resource_link "4bbf65fc-88c0-4aef-8aec-9e3ec96a8e4b" "Heiji Monogatari E - Facsimile Editions and Medieval Illuminated Manuscripts" %}}.” YouTube.
 
 #### Session 7: The First Samurai Government
 
-\[SWCJ\] Section IV: “9. The Formulary of Adjudication/Jōei Code (1232),” “10. Letter from Hōjō Yasutoki Concerning the Formulary,” “11. Kamakura Amendments,” “12. *Bakufu* Justice: A Case Study,” pp. 42–69. \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_and_the_Warrior_Culture_of_Japan/gN1dEAAAQBAJ?hl=en&gbpv=1)\]
+\[SWCJ\] Section IV: “9. The Formulary of Adjudication/Jōei Code (1232),” “10. Letter from Hōjō Yasutoki Concerning the Formulary,” “11. Kamakura Amendments,” “12. *Bakufu* Justice: A Case Study,” pp. 42–69. \[Preview with {{% resource_link "5932c915-2b8c-48c8-9c72-697d87897cd4" "Google Books" %}}\]
 
 \[SWCJ\] Section IV: “14. Excerpt from Takezaki Suenaga’s *Scrolls of the Mongol Invasions*,” “15. Legal Amendment (Tsuikahō) Concerning Rewards,” “16. Suenaga’s Audience with Adachi Yasumori,” pp. 81–86.
 
@@ -97,7 +97,7 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 *Optional:*
 
-“[Scrolls of the Mongol Invasion](http://digital.princeton.edu/annotatedscrolls/index.php).” Princeton University.
+“{{% resource_link "2ba72f91-f697-4f99-89a7-e8b432a08098" "Scrolls of the Mongol Invasion" %}}.” Princeton University.
 
 ### Week 5: From the Second Shogunate to Warring States (1300–1500)
 
@@ -125,7 +125,7 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 *Optional (a cool animated map of the Ōnin War):*
 
-“[THE ŌNIN WAR: Visualizing 12 Years of War in Japan, 1465–78](https://commons.princeton.edu/onin/).” Princeton University.
+“{{% resource_link "2afe0ef4-c006-4c60-8741-b858fe94db56" "THE ŌNIN WAR: Visualizing 12 Years of War in Japan, 1465–78" %}}.” Princeton University.
 
 ### Week 6: Reunification 
 
@@ -139,7 +139,7 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 #### Session 11: An Elizabethan Account of Hideyoshi’s Nephew
 
-“[The Tragedy of Quabacondono: An Elizabethan Account of the Last Days of Toyotomi Hidetsugi](https://muse.jhu.edu/article/805167),” *Monumenta Nipponic*a, Vol. 76.1 (2021) pp. 1–64.
+“{{% resource_link "cd0593fa-e646-4d3c-8aaa-443e7a8c9c4b" "The Tragedy of Quabacondono: An Elizabethan Account of the Last Days of Toyotomi Hidetsugi" %}},” *Monumenta Nipponic*a, Vol. 76.1 (2021) pp. 1–64.
 
 \[JE\] Ch. 31, “A Whole New World (Order),” pp. 333–343.
 
@@ -147,23 +147,23 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 \[JE\] Ch. 28, “Diplomacy, Piracy, and the Space Between,” pp. 299–308.
 
-“[The Amboyna Conspiracy Trial](https://amboyna.org/).” *(“Amboyna Introduction” video; “Your Verdict” modules (including videos); all modules within the “Japanese Mercenaries” exhibit.)*
+“{{% resource_link "31db774f-4f37-4d21-a7b6-ce066c044399" "The Amboyna Conspiracy Trial" %}}.” *(“Amboyna Introduction” video; “Your Verdict” modules (including videos); all modules within the “Japanese Mercenaries” exhibit.)*
 
 *Optional video:*
 
-“[The Unique Beliefs of Japan's Clandestine Christians](https://www.youtube.com/watch?v=1NCqJ07QHrI).” YouTube.
+“{{% resource_link "2df563a8-2499-4a9d-b9d8-f17d4579047f" "The Unique Beliefs of Japan's Clandestine Christians" %}}.” YouTube.
 
 #### Session 12: The Last (and Best?) Samurai Government
 
 “Part IV, The Tokugawa Peace,” pp. 1–27, in William Theodore de Bary, ed., *Sources of Japanese Tradition, Volume 2: 1600 To 2000* *(Second Edition)* (Columbia University Press, 2001). ISBN: 9780231129848.
 
-\[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/ua6rAgAAQBAJ?hl=en&gbpv=1)\]
+\[Preview with {{% resource_link "40facecd-f2d9-4c1d-a50c-da7803fe711d" "Google Books" %}}\]
 
 \[JE\] Ch. 30, “The Political Order,” pp. 321–332.
 
 *Optional video:*
 
-“[Battle of Sanada Maru (4–5 December 1614)](https://www.youtube.com/watch?v=D0TOgoDZEFY).” YouTube. *(A contemporary Japanese TV drama recreating an episode from the Osaka Winter Campaign of 1614.)*
+“{{% resource_link "0fba6f13-da28-4da1-bafd-6fa54146fbca" "Battle of Sanada Maru (4–5 December 1614)" %}}.” YouTube. *(A contemporary Japanese TV drama recreating an episode from the Osaka Winter Campaign of 1614.)*
 
 ## Part III: Alternative Visions of Samurai and their World (1700–Present)
 
@@ -183,7 +183,7 @@ Eiko Ikegami, “The Vendetta of the Forty seven Samurai,” in *The Taming of t
 
 #### Session 14: Pictures and Stories of the Floating World
 
-“Introduction” in Julie Nelson Davis, *Picturing the Floating World: Ukiyo-e in Context* (University of Hawai’i Press, 2021) pp. 1–21. ISBN: 9780824889333. \[Preview with [Google Books](https://www.google.com/books/edition/Picturing_the_Floating_World/YYOUEAAAQBAJ?hl=en&gbpv=1)\]
+“Introduction” in Julie Nelson Davis, *Picturing the Floating World: Ukiyo-e in Context* (University of Hawai’i Press, 2021) pp. 1–21. ISBN: 9780824889333. \[Preview with {{% resource_link "bb7e1bef-6f78-48d2-9993-9000d95f17d9" "Google Books" %}}\]
 
 \[JE\] Ch. 34, “Ukiyo asobi,” pp. 366–377.
 
@@ -195,7 +195,7 @@ Jippensha Ikku, “The Monster Takes a Bride,” in *An Edo Anthology: Literatur
 
 #### Session 15: Tsuneno’s Journey
 
-“The People in Tsuneno’s World,” “Maps,” “A Note on Translations,” “Prologue,” “Chapter One: Faraway Places,” and “Chapter Two: Half a Lifetime in the Countryside,” pp. ix–58 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). ISBN: ‎9781501188534. \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
+“The People in Tsuneno’s World,” “Maps,” “A Note on Translations,” “Prologue,” “Chapter One: Faraway Places,” and “Chapter Two: Half a Lifetime in the Countryside,” pp. ix–58 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). ISBN: ‎9781501188534. \[Preview with {{% resource_link "0adcb4e4-c6e5-442d-9715-516d97cd4114" "Google Books" %}}\]
 
 *Optional:*
 
@@ -205,7 +205,7 @@ Jippensha Ikku, “The Monster Takes a Bride,” in *An Edo Anthology: Literatur
 
 “Chapter Three: To Edo,” “Chapter Four: A View from the Tenement,” “Chapter Five: Samurai Winter,” “Chapter Six: Costumes for Urban Life,” pp. 59–160 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). ISBN: ‎9781501188534.
 
-Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](https://www.historians.org/research-and-publications/perspectives-on-history/november-2018/writing-the-history-of-sexual-assault-in-the-age-of-metoo).” *Perspectives on History*, September 24, 2018.
+Stanley, Amy. “{{% resource_link "1e5a40f7-f272-4551-93f0-f4224045e633" "Writing the History of Sexual Assault in the Age of #MeToo" %}}.” *Perspectives on History*, September 24, 2018.
 
 ### Week 10: Bureaucrats and Ne’er-Do-Wells
 
@@ -219,25 +219,25 @@ Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](ht
 
 \[JE\] Ch. 33, “Urbanization, Trade, and Merchants,” pp.344–365.
 
-“Warriors,” pp. 42–94, in Mark Teeuwen and Kate Wildman Nakai, eds., *Lust, Commerce, and Corruption: An Account of What I have Seen and Heard*, *by an Edo Samurai* (Columbia University Press, 2017). ISBN: 9780231544351. \[Preview with [Google Books](https://www.google.com/books/edition/Lust_Commerce_and_Corruption/9eBqDgAAQBAJ?hl=en&gbpv=1)\]
+“Warriors,” pp. 42–94, in Mark Teeuwen and Kate Wildman Nakai, eds., *Lust, Commerce, and Corruption: An Account of What I have Seen and Heard*, *by an Edo Samurai* (Columbia University Press, 2017). ISBN: 9780231544351. \[Preview with {{% resource_link "2644d83c-baf8-485e-8517-c59f3d1f6a7f" "Google Books" %}}\]
 
 #### Session 18: “Dream-Besotted” Musui
 
-“Introduction,” and “Adult Years,” in *Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988) pp. ix–xxi, 71–108. ISBN: 9780816512560. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\]
+“Introduction,” and “Adult Years,” in *Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988) pp. ix–xxi, 71–108. ISBN: 9780816512560. \[Preview with {{% resource_link "5977133b-a2a8-47c5-829c-46c07c2a4820" "Google Books" %}}\]
 
 *Optional:*
 
-*Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988). ISBN: 9780816512560. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\] *(Read the entire book.)*
+*Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988). ISBN: 9780816512560. \[Preview with {{% resource_link "5977133b-a2a8-47c5-829c-46c07c2a4820" "Google Books" %}}\] *(Read the entire book.)*
 
 *Optional video:*
 
-*“*[A day in the life of a teenage samurai - Constantine N. Vaporis](https://ed.ted.com/lessons/a-day-in-the-life-of-a-teenage-samurai-constantine-n-vaporis).*”* TEDEd.
+*“*{{% resource_link "743f13f7-40b3-4e66-92cd-7a244f4b4d3b" "A day in the life of a teenage samurai - Constantine N. Vaporis" %}}.*”* TEDEd.
 
 ### Week 11: The End of Samurai
 
 #### Session 19: The Fall of Tokugawa and Aizu
 
-“Introduction,” “Preface,” “Childhood,” “Beginning of the Tragedy,” “Reaction in Aizu,” “A Fight to the Death,” “A Sea of Fire,” “A Night of Despair,” and “Last Days of the Bakufu, pp. 1-62, in Teruko Craig, trans., *Remembering Aizu: The Testament of Shiba Goro* (University of Hawai’i Press, 1999). ISBN: 9780824821579. \[Preview with [Google Books](https://www.google.com/books/edition/Remembering_Aizu/xMmO7XM0XoEC?hl=en&gbpv=1)\]
+“Introduction,” “Preface,” “Childhood,” “Beginning of the Tragedy,” “Reaction in Aizu,” “A Fight to the Death,” “A Sea of Fire,” “A Night of Despair,” and “Last Days of the Bakufu, pp. 1-62, in Teruko Craig, trans., *Remembering Aizu: The Testament of Shiba Goro* (University of Hawai’i Press, 1999). ISBN: 9780824821579. \[Preview with {{% resource_link "91840838-5068-4f52-a88a-379a3f6cd325" "Google Books" %}}\]
 
 #### Session 20: A Samurai Prince in 19th-Century Massachusetts 
 
@@ -257,7 +257,7 @@ No readings assigned.
 
 #### Session 23: “Samurai” Today
 
-“Introduction,” pp. 1–14, in Oleg Benesch, *Inventing the Way of the Samurai: Nationalism, Internationalism, and Bushidō in Modern Japan* (University of Oxford Press, 2014). ISBN: 9780198706625. \[Preview with [Google Books](https://www.google.com/books/edition/Inventing_the_Way_of_the_Samurai/xc1LBAAAQBAJ?hl=en&gbpv=1)\]
+“Introduction,” pp. 1–14, in Oleg Benesch, *Inventing the Way of the Samurai: Nationalism, Internationalism, and Bushidō in Modern Japan* (University of Oxford Press, 2014). ISBN: 9780198706625. \[Preview with {{% resource_link "8c8b13ee-3df0-4e2f-bc5f-b4533f5d9477" "Google Books" %}}\]
 
 ### Week 14: Final Essay Prep Week
 
